@@ -35,7 +35,7 @@
   "dependencies": {
     "autodetect-decoder-stream": "^1.0.3",
     "cli-progress": "^3.9.0",
-    "commander": "^7.1.0",
+    "commander": "^8.3.0",
     "csv-reader": "^1.0.7",
     "faker": "^5.4.0",
     "fast-date-format": "^2.2.4",
